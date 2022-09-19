@@ -11,3 +11,6 @@ console.log('zli-c1')
 console.log('zli-c2')
 console.log('zli-c3')
 
+console.log('zli-d1')
+console.log('zli-d2')
+console.log('zli-d3')
